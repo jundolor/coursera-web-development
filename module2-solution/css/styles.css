@@ -15,8 +15,7 @@ h1{
 	margin:0px;
 }
 #section1, #section2, #section3{
-	margin-left: 2px;
-	margin-right: 2px;
+	margin: 3px;
 	background-color: #E7E5E4;
 	border:1px solid black;
 }
