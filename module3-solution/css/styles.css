@@ -9,3 +9,9 @@ div.container section.row{
 	background-color: #B6B6B4;
 	padding: 10px;
 }
+@media (max-width: 768px) {
+	div.container section.row{
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+}
