@@ -5,3 +5,7 @@
 #header-nav  ul.nav li a:hover{
 	background-color: #FFFF50;
 }
+div.container section.row{
+	background-color: #B6B6B4;
+	padding: 10px;
+}
