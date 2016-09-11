@@ -7,7 +7,7 @@
 }
 div.container section.row{
 	background-color: #B6B6B4;
-	padding: 10px;
+	/*padding: 10px;*/
 }
 @media (max-width: 768px) {
 	div.container section.row{
